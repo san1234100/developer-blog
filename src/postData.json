@@ -1,6 +1,26 @@
 [
     {
         "id":"1",
-        
+        "title":"Learn how to build an website using node js",
+        "topic":"Web Development",
+        "desc":"Unlock the power of Node.js in website creation with our comprehensive guide. Learn step-by-step how to leverage Node.js for backend development., seamlessly integrating with frontend to build dynamic websites.",
+        "author":"Sanjeev",
+        "publishedDuration":"1 week ago"
+    },
+    {
+        "id":"2",
+        "title":" Mastering App Development with Flutter",
+        "topic":"Mobile App Development",
+        "desc":"Discover the power of Flutter as we guide you through building your own app from scratch. Learn essential techniques, best practices, and unleash your creativity in this comprehensive tutorial series.",
+        "author":"Maxson",
+        "publishedDuration":"3 week ago"
+    },
+    {
+        "id":"3",
+        "title":"Exploring the Latest in AI and ML: Innovation Unleashed",
+        "topic":"AI and Machine Learning",
+        "desc":"Explore the cutting-edge advancements in artificial intelligence and machine learning, from breakthrough algorithms to transformative applications, in this concise guide to the forefront of technology.",
+        "author":"Shriram",
+        "publishedDuration":"1 months ago"
     }
 ]
