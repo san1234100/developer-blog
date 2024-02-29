@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+.card-style{
+    @apply bg-[#a7a6cb] p-10 w-96 rounded-lg;
+}
+.card-posts{
+    @apply bg-[#a7a6cb] p-5 w-96 rounded-lg;
+}
+
+.card-title{
+    @apply text-2xl font-semibold text-[#1B1A55];
+}
